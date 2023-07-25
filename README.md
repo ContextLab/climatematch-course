@@ -4,9 +4,19 @@
 
 Please check out [expected prerequisites here](https://github.com/NeuromatchAcademy/precourse/blob/main/prereqs/ComputationalNeuroscience.md)!
 
-**The content should primarily be accessed from our ebook: https://compclimate.neuromatch.io/ [under continuous development]**
+**The content should primarily be accessed from our ebook: [https://compclimate.neuromatch.io/](https://contextlab.github.io/climatematch-course/tutorials/intro.html) [under continuous development]**
 
 **Schedule for 2023: https://github.com/NeuromatchAcademy/course-climatema/blob/main/tutorials/Schedule/daily_schedules.md**
+
+---
+
+# ⚠ Experimental LLM-enhanced materials ⚠
+
+![Image credit: DALL-E-2; prompt: robotic tutor helping a human student learn to program, science fiction, detailed rendering, futuristic, exquisite detail, graphic artist](https://user-images.githubusercontent.com/9030494/251830573-e3b928e1-f683-44a5-af1e-5c51e3f0e541.png)
+
+This version of the Climatematch course incorporates [Chatify](https://github.com/ContextLab/chatify) 🤖 functionality. This is an experimental extension that adds support for a large language model-based helper to the some of the tutorial materials. Instructions for using the Chatify extension are provided in the relevant tutorial notebooks.  Note that using the extension may cause breaking changes and/or provide incorrect or misleading information.
+
+Thanks for giving Chatify a try! Love it? Hate it? Either way, we'd love to hear from you about your Chatify experience!  Please consider filling out our [brief survey](https://forms.gle/jNq85KVvNwj1JHZV9) to provide feedback and help us make Chatify more awesome!
 
 ---
 
