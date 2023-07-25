@@ -6,6 +6,9 @@ scikit-learn
 torch
 ipywidgets
 decorator==5.0.9
+chatify @ git+https://github.com/ContextLab/chatify
+davos
+tqdm
 # pythia_datasets
 # cartopy
 # pooch
