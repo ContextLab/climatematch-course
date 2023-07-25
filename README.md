@@ -4,7 +4,7 @@
 
 Please check out [expected prerequisites here](https://github.com/NeuromatchAcademy/precourse/blob/main/prereqs/ComputationalNeuroscience.md)!
 
-**The content should primarily be accessed from our ebook: [https://compclimate.neuromatch.io/](https://contextlab.github.io/climatematch-course/tutorials/intro.html) [under continuous development]**
+**The content should primarily be accessed from our ebook: [contextlab.github.io/climatematch-course](https://contextlab.github.io/climatematch-course/tutorials/intro.html) [under continuous development]**
 
 **Schedule for 2023: https://github.com/NeuromatchAcademy/course-climatema/blob/main/tutorials/Schedule/daily_schedules.md**
 
